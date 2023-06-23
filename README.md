@@ -1,7 +1,7 @@
 # Insurance Smart Contract
 This smart contract automatically claims flight insurance payouts from an insurance provider when the client's flight has been delayed. It can be used to onboard a client and immediately claim a payout as soon as the client boards.
 
-#Functions
+# Functions
 - Client onboarding
 - Boarding declaration
 - Insurance status check
