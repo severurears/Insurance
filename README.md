@@ -1,6 +1,11 @@
 # Insurance Smart Contract
 This smart contract automatically claims flight insurance payouts from an insurance provider when the client's flight has been delayed. It can be used to onboard a client and immediately claim a payout as soon as the client boards.
 
+#Functions
+- Client onboarding
+- Boarding declaration
+- Insurance status check
+
 # How it works
 1) You onboard a client by providing their name, NRIC, flight code, planned takeoff date time, and value of contract.
 2) Next, once the client is onboarded, a unique contract ID (address) is generated.
